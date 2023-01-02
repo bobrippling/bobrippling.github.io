@@ -3,6 +3,7 @@ Hello there. This is where I list a projects and a bit of mucking around.
 - [C compiler](https://github.com/bobrippling/ucc-c-compiler)
 - [fire.js](fire.html)
 - [Github Profile, including TILs](https://github.com/bobrippling/bobrippling)
+- [BangleJS Apps](/BangleApps/)
 
 Company blog posts
 - [Prettier - Tips and Tricks for large codebases](https://blog.scottlogic.com/2019/12/05/prettier-tips-and-tricks-for-large-codebases.html)
